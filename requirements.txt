@@ -16,7 +16,7 @@ Flask-SQLAlchemy==2.4.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
-lxml==4.4.0
+lxml==4.6.2
 Mako==1.1.0
 MarkupSafe==1.1.1
 marshmallow==2.19.5
